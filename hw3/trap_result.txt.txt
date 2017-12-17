@@ -1,0 +1,7 @@
+"C:\Users\Jerry Hu\AppData\Local\Enthought\Canopy\edm\envs\User\python.exe" "C:/Users/Jerry Hu/Google Drive/2017 fall/CS 514/Homework/hw3/hw3_composite_trapezoidal.py"
+The integral using composite trapezoidal rule with h = 1/10 is : 0.553291387475
+The integral using composite trapezoidal rule with h = 1/20 is : 0.55151561097
+The integral using composite trapezoidal rule with h = 1/40 is : 0.551079756053
+The ratio R using composite trapezoidal rule is : 4.07423762699
+
+Process finished with exit code 0

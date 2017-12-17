@@ -1,0 +1,7 @@
+"C:\Users\Jerry Hu\AppData\Local\Enthought\Canopy\edm\envs\User\python.exe" "C:/Users/Jerry Hu/Google Drive/2017 fall/CS 514/Homework/hw3/hw3_composite_simpson.py"
+The integral using composite simpson rule with h = 1/10 is : 0.550735161974
+The integral using composite simpson rule with h = 1/20 is : 0.550923685469
+The integral using composite simpson rule with h = 1/40 is : 0.55093447108
+The ratio R using composite simpson rule is : 17.4791659002
+
+Process finished with exit code 0

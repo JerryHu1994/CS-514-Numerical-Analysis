@@ -1,0 +1,18 @@
+/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 "/Users/Jerry/Google Drive/2017 fall/CS 514/Homework/hw6/hw6.py"
+Problem 1)
+The Forward Euler Method requires 743325 steps to achieve five decimal accurate. Calculated e: 2.718280000000 (rounded to 12 decimal digits)
+Problem 2)
+The Improved Euler Method requires 498 steps to achieve five decimal accurate. Calculated e: 2.718280004436 (rounded to 12 decimal digits)
+Problem 3)
+The RK4 Method requires 11 steps to achieve five decimal accurate. Calculated e: 2.718280394037 (rounded to 12 decimal digits)
+Problem 4)
+Question a)
+The R ratio is :  2.0116379666
+The expected R ratio is 16.
+Question e)
+Part c: The maximum value of height attained 10.3864540954 m
+The total horizontal distance travvelled before the ball hits the ground is 31.4918401067 m
+Part d: The maximum value of height attained 15.9606960495 m
+The total horizontal distance travvelled before the ball hits the ground is 63.8129328117 m
+
+Process finished with exit code 0
